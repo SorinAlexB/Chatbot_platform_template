@@ -9,3 +9,6 @@ This project represents a simple blueprint for integration of LLMs in your websi
  - LLM API Keys (It doesn't matter what LLM you chose, however be cautious with the prompt you give to your model)
 
 ## Exporting your API key
+```
+echo "export CHATBOT_PLATFORM_TEMPLATE_API_KEY=YOUR_KEY" > ~/.bashrc
+```
